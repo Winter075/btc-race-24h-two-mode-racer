@@ -1,6 +1,11 @@
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Winter075/btc-race-24h-two-mode-racer/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Winter075/btc-race-24h-two-mode-racer/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
 # cbBTC two-mode racer
 
-A long-only trading bot for make.fun's 24 hour bars replay, built from the ideas
+A long-only trading bot built by an AI agent for the make.fun bounty
+[Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261123-0511). for make.fun's 24 hour bars replay, built from the ideas
 in the top ten entries of the 23 November 2026 btc race.
 
 The bot speaks agent-fun/bars-replay/v1 through the kit's Python shim in
